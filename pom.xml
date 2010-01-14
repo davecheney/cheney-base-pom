@@ -26,6 +26,12 @@
 		<project.jdk.level>1.6</project.jdk.level>
 	</properties>
 
+	<scm>
+		<connection>scm:git:git://github.com/davecheney/cheney-base-pom.git</connection>
+		<developerConnection>scm:git:git://github.com/davecheney/ccheney-base-pom.git</developerConnection>
+		<url>http://github.com/davecheney/cheney-base-pom</url>
+	</scm>
+
 	<build>
 		<plugins>
 			<plugin>

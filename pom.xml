@@ -28,7 +28,7 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/davecheney/cheney-base-pom.git</connection>
-		<developerConnection>scm:git:git://github.com/davecheney/cheney-base-pom.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:davecheney/cheney-base-pom.git</developerConnection>
 		<url>http://github.com/davecheney/cheney-base-pom</url>
 	</scm>
 

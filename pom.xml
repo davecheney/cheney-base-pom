@@ -4,7 +4,7 @@
 	<artifactId>cheney-base-pom</artifactId>
 	<packaging>pom</packaging>
 	<name>Cheney Base POM</name>
-	<version>5</version>
+	<version>6-SNAPSHOT</version>
 
 	<url>http://cheney.net/</url>
 
